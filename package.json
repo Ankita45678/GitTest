@@ -1,0 +1,24 @@
+{
+  "name": "gittest",
+  "version": "1.0.0",
+  "description": "My testing folder",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankita45678/GitTest.git"
+  },
+  "author": "Ankita Kulkarni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankita45678/GitTest/issues"
+  },
+  "homepage": "https://github.com/Ankita45678/GitTest#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
